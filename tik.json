@@ -1,0 +1,7 @@
+echo "# yenilmez_king" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk commit" 
+git şubesi -M ana 
+git uzak kaynak ekle https://github.com/yenilez/yenilmez_king.git
+ git push - u menşei ana
